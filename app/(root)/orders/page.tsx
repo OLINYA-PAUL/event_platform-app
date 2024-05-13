@@ -63,7 +63,7 @@ const Orders = async ({ searchParams }: SearchParamProps) => {
         </table>
       </section>
     </>
-  )
+  )  
 }
 
 export default Orders
